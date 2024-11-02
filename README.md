@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=nord" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=full&theme=nord" alt="Most Used Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=geekblue" alt="GitHub Streak" />
 </div>
