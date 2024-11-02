@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 </br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=radical)
+
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
