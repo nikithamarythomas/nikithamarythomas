@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=material_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=space_gray" alt="GitHub Stats" />
   <br /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=chartreuse-dark" alt="GitHub Streak" />
   <br /><br/>
