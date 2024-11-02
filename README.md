@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 ## 🏆 Achievements
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=darkhub" alt="Trophy"/>
-</div>div>
+<img src="https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=dimmed" alt="Trophy"/>
+</div>
 
