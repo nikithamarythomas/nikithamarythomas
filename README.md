@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitha-mary-thomas&show_icons=true&theme=radical)
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitha-mary-thomas&layout=compact&theme=radical)
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=nikitha-mary-thomas&theme=redical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikitha-mary-thomas&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
