@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=donut&theme=nord" alt="Most Used Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=shades-of-purple" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=ocean_dark" alt="GitHub Streak" />
 </div>
 
 
