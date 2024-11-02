@@ -27,5 +27,8 @@ Here are some ideas to get you started:
 
 
 ## 🏆 Achievements
+<br/>
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+</div>div>
 
