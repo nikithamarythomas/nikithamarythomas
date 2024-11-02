@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical)
-</b>
+</br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
 
 ## 🏆 Achievements
