@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical)
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical)
+</b>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
 
