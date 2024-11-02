@@ -14,6 +14,6 @@
 ## 🏆 Achievements
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=black" alt="Trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=shades-of-purple" alt="Trophy"/>
 </div>
 
