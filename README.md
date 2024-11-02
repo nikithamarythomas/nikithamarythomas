@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical)
 </br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikithamarythomas&layout=compact)
-
+</br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=radical)
 
 ## 🏆 Achievements
