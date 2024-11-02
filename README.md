@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical)
-</br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical)
-</br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=radical)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikithamarythomas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=compact&theme=radical" alt="Most Used Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=radical" alt="GitHub Streak" />
+</div>
+
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=nikithamarythomas&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
