@@ -7,7 +7,7 @@
   <br /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikithamarythomas&theme=chartreuse-dark" alt="GitHub Streak" />
   <br /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=donut&theme=ocean_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=donut&theme=nord" alt="Most Used Languages" />
 </div>
 
 
