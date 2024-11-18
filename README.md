@@ -13,7 +13,7 @@
 <div>
 <p align="center">
 <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikithamarythomas&layout=compact&theme=merko&custom_title=My%20Coding%20Activity">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikithamarythomas&layout=compact&theme=radical&custom_title=My%20Coding%20Activity">
 </p>
 </div>
 
