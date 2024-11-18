@@ -10,6 +10,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikithamarythomas&layout=donut&theme=ocean_dark" alt="Most Used Languages" />
 </div>
 
+<div>
+<p align="center">
+<br/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikithamarythomas&layout=compact&theme=merko&custom_title=My%20Coding%20Activity">
+</p>
+</div>
 
 ## 🏆 Achievements
 <br/>
